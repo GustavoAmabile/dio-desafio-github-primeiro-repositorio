@@ -1,0 +1,21 @@
+CURSOS A REALIZAR
+
+Variáveis, Tipos de Dados e Operadores Matemáticos em Java.
+Lógica Condicional e Controle de Fluxos em Java.
+Estruturas de Repetição e Arrays em Java.
+Reforçando o Conceito de Laços em Java.
+Resolvendo Desafios de Código em Java.
+Estrutura de dados em Java.
+Trabalhando com Collections Java.
+Implementando Collections e Streams com Java.
+Introdução a orientação a objetos com Java.
+SQL SERVER - Criando suas primeiras consultas.
+Modelando um banco de dados na prática com SQL SERVER.
+SQL Server: Boas práticas em bancos relacionais.
+Introdução a APIs e métodos HTTP.
+Introdução ao framework Spring Boot.
+Simplificando Projetos Java com o Spring Boot.
+Introdução aos Conceitos de API e Clean Architecture.
+Introdução a Qualidade de Software.
+Aprenda a aplicar testes com Java.
+

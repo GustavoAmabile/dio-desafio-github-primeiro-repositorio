@@ -1,0 +1,7 @@
+PROJETOS E DESAFIOS A REALIZAR
+
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso(Projeto).
+Desafios Java Developer(Desafio).
+Abstraindo um Bootcamp Usando Orientação a Objetos em Java(Projeto).
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot(Projeto).
+Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja(Projeto).

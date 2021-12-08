@@ -1,0 +1,11 @@
+MENTORIAS - TOTAL 8
+
+Mentoria #1: Aula Inaugural Spread Java Developer.
+Mentoria #2: Como ser o próximo contratado da Spread.
+Mentoria #3: Start coding - Java Essencials 1.
+Mentoria #4: Como resolver os desafios de código.
+Mentoria #5: ORACLE DATABASE-Diferenciais(13/12/2021).
+Mentoria #6: Consumindo uma API Rest Com Spring.Exemplos práticos(16/12/2021).
+Mentoria #7: Introdução ao teste de Software(20/12/2021).
+Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread.
+
